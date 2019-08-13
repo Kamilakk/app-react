@@ -1,0 +1,30 @@
+.App {
+    text-align: center;
+    padding: 15px;
+    
+}
+
+
+
+input {
+    margin: 10px;
+    padding: 5px 10px;
+    font-size: 20px;
+    
+    
+}
+
+.form {
+    font-size: 20px;
+    
+}
+
+.form button {
+padding: 3px 10px;
+text-transform: uppercase;
+font-weight: bold;
+margin: 20px;
+font-size: 20px;
+
+
+}
